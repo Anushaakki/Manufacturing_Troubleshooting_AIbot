@@ -76,7 +76,7 @@ treasure_ai_hackathon_datasource
 - `standstill_time` — how long the machine was down
 - `start_date_time` — when the issue occurred
 
-> ⚠️ **Note:** This dataset was available inside the Databricks hackathon environment. If you are running this outside that environment, you will need to connect your own maintenance dataset and update the catalog/schema/table references in the SQL functions accordingly.
+> **Note:** This dataset was available inside the Databricks hackathon environment. If you are running this outside that environment, you will need to connect your own maintenance dataset and update the catalog/schema/table references in the SQL functions accordingly.
 
 ---
 
